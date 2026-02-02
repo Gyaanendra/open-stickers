@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="anime/demonslayer_rengoku.png" width="150" alt="Rengoku Sticker"/>
-  <img src="memes/sticker_86_stonks.png" width="150" alt="Stonks Meme"/>
-  <img src="space_scifi/sticker_70_astronaut.png" width="150" alt="Astronaut Sticker"/>
+  <img src="stickers/anime/demonslayer_rengoku.png" width="150" alt="Rengoku Sticker"/>
+  <img src="stickers/memes/sticker_86_stonks.png" width="150" alt="Stonks Meme"/>
+  <img src="stickers/space_scifi/sticker_70_astronaut.png" width="150" alt="Astronaut Sticker"/>
 </p>
 
 <h1 align="center">🎨 Open Source Sticker Pack 🚀</h1>
@@ -51,10 +51,10 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**ai_ml/**](./ai_ml) | Neural nets, transformers, deep learning magic | 🧠 Big Brain |
-| [**data_science/**](./data_science) | Charts, pipelines, databases | 📊 Data Go Brrr |
-| [**robotics/**](./robotics) | Robot arms, drones, sensors | 🦾 Beep Boop |
-| [**tech_memes/**](./tech_memes) | Debugging tears, Stack Overflow prayers | 😭 Too Real |
+| [**ai_ml/**](./stickers/ai_ml) | Neural nets, transformers, deep learning magic | 🧠 Big Brain |
+| [**data_science/**](./stickers/data_science) | Charts, pipelines, databases | 📊 Data Go Brrr |
+| [**robotics/**](./stickers/robotics) | Robot arms, drones, sensors | 🦾 Beep Boop |
+| [**tech_memes/**](./stickers/tech_memes) | Debugging tears, Stack Overflow prayers | 😭 Too Real |
 
 ### 🎌 For the Anime Enjoyers
 
@@ -62,8 +62,8 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**anime/**](./anime) | Demon Slayer, JJK, Naruto, Bleach, AOT, CSM & more! | ⚔️ Pure Fire |
-| [**anime_general/**](./anime_general) | General weeb content | 🌸 Kawaii |
+| [**anime/**](./stickers/anime) | Demon Slayer, JJK, Naruto, Bleach, AOT, CSM & more! | ⚔️ Pure Fire |
+| [**anime_general/**](./stickers/anime_general) | General weeb content | 🌸 Kawaii |
 
 ### 🎬 For Movie Buffs
 
@@ -71,10 +71,10 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**movies/**](./movies) | Inception, Interstellar, Dune, John Wick | 🎥 Cinema |
-| [**cinema/**](./cinema) | Classic film stuff | 🎬 Artsy |
-| [**tv_shows/**](./tv_shows) | Binge-worthy shows | 📺 No Sleep |
-| [**ai_movies/**](./ai_movies) | AI in movies | 🤖 Skynet Vibes |
+| [**movies/**](./stickers/movies) | Inception, Interstellar, Dune, John Wick | 🎥 Cinema |
+| [**cinema/**](./stickers/cinema) | Classic film stuff | 🎬 Artsy |
+| [**tv_shows/**](./stickers/tv_shows) | Binge-worthy shows | 📺 No Sleep |
+| [**ai_movies/**](./stickers/ai_movies) | AI in movies | 🤖 Skynet Vibes |
 
 ### 🎭 For the Meme Lords
 
@@ -82,97 +82,97 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**memes/**](./memes) | Distracted BF, Drake, This is Fine, STONKS | 📈 Dank |
-| [**retro_fun/**](./retro_fun) | Old school cool | 🕹️ Nostalgic |
+| [**memes/**](./stickers/memes) | Distracted BF, Drake, This is Fine, STONKS | 📈 Dank |
+| [**retro_fun/**](./stickers/retro_fun) | Old school cool | 🕹️ Nostalgic |
 
 ### 🌟 Themed Collections
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**pirate_theme/**](./pirate_theme) | Cyber pirates, code ships, treasure | 🏴‍☠️ Yarr! |
-| [**space_scifi/**](./space_scifi) | Astronauts, aliens, black holes | 🛸 Space Gang |
-| [**futuristic/**](./futuristic) | Cyberpunk, neon dreams | 💜 2077 |
-| [**dinosaurs/**](./dinosaurs) | Prehistoric + tech mashup | 🦖 Rawr |
+| [**pirate_theme/**](./stickers/pirate_theme) | Cyber pirates, code ships, treasure | 🏴‍☠️ Yarr! |
+| [**space_scifi/**](./stickers/space_scifi) | Astronauts, aliens, black holes | 🛸 Space Gang |
+| [**futuristic/**](./stickers/futuristic) | Cyberpunk, neon dreams | 💜 2077 |
+| [**dinosaurs/**](./stickers/dinosaurs) | Prehistoric + tech mashup | 🦖 Rawr |
 
 ### 🐾 Special Drops
 
 | Category | What's Inside | Vibes |
 |:---------|:--------------|:------|
-| [**ai_animals/**](./ai_animals) | AI-generated cute creatures | 🐱 Adorable |
-| [**ai_religious/**](./ai_religious) | Spiritual AI art | 🙏 Blessed |
-| [**other/**](./other) | Random cool stuff | 🎲 Surprise |
+| [**ai_animals/**](./stickers/ai_animals) | AI-generated cute creatures | 🐱 Adorable |
+| [**ai_religious/**](./stickers/ai_religious) | Spiritual AI art | 🙏 Blessed |
+| [**other/**](./stickers/other) | Random cool stuff | 🎲 Surprise |
 
 ---
 
-## � Eye Candy
+## 👀 Eye Candy
 
 ### ⚔️ Anime Collection 
 *Your favorite characters are here!*
 
 <p align="center">
-  <img src="anime/demonslayer_tanjiro.png" width="100"/>&nbsp;
-  <img src="anime/jujutsu_kaisen_sukuna.png" width="100"/>&nbsp;
-  <img src="anime/naruto_sage_mode.png" width="100"/>&nbsp;
-  <img src="anime/demonslayer_nezuko.png" width="100"/>&nbsp;
-  <img src="anime/bleach_ichigo_bankai.png" width="100"/>&nbsp;
-  <img src="anime/onepiece_luffy_gear5.png" width="100"/>
+  <img src="stickers/anime/demonslayer_tanjiro.png" width="100"/>&nbsp;
+  <img src="stickers/anime/jujutsu_kaisen_sukuna.png" width="100"/>&nbsp;
+  <img src="stickers/anime/naruto_sage_mode.png" width="100"/>&nbsp;
+  <img src="stickers/anime/demonslayer_nezuko.png" width="100"/>&nbsp;
+  <img src="stickers/anime/bleach_ichigo_bankai.png" width="100"/>&nbsp;
+  <img src="stickers/anime/onepiece_luffy_gear5.png" width="100"/>
 </p>
 
 ### 🧠 AI/ML Collection
 *For when you need to flex your data science creds*
 
 <p align="center">
-  <img src="ai_ml/sticker_01_neural_node.png" width="100"/>&nbsp;
-  <img src="ai_ml/sticker_05_deep_network.png" width="100"/>&nbsp;
-  <img src="ai_ml/sticker_07_transformer.png" width="100"/>&nbsp;
-  <img src="ai_ml/sticker_42_brain.png" width="100"/>&nbsp;
-  <img src="ai_ml/sticker_77_galaxy_brain.png" width="100"/>
+  <img src="stickers/ai_ml/sticker_01_neural_node.png" width="100"/>&nbsp;
+  <img src="stickers/ai_ml/sticker_05_deep_network.png" width="100"/>&nbsp;
+  <img src="stickers/ai_ml/sticker_07_transformer.png" width="100"/>&nbsp;
+  <img src="stickers/ai_ml/sticker_42_brain.png" width="100"/>&nbsp;
+  <img src="stickers/ai_ml/sticker_77_galaxy_brain.png" width="100"/>
 </p>
 
 ### 💻 Tech Memes
 *We don't cry, we debug*
 
 <p align="center">
-  <img src="tech_memes/01_works_on_my_machine.png" width="100"/>&nbsp;
-  <img src="tech_memes/debugging.png" width="100"/>&nbsp;
-  <img src="tech_memes/stackoverflow.png" width="100"/>&nbsp;
-  <img src="tech_memes/rubberduck.png" width="100"/>&nbsp;
-  <img src="tech_memes/git_commit.png" width="100"/>
+  <img src="stickers/tech_memes/01_works_on_my_machine.png" width="100"/>&nbsp;
+  <img src="stickers/tech_memes/debugging.png" width="100"/>&nbsp;
+  <img src="stickers/tech_memes/stackoverflow.png" width="100"/>&nbsp;
+  <img src="stickers/tech_memes/rubberduck.png" width="100"/>&nbsp;
+  <img src="stickers/tech_memes/git_commit.png" width="100"/>
 </p>
 
 ### 📈 Meme Stickers
 *For maximum engagement*
 
 <p align="center">
-  <img src="memes/sticker_84_this_is_fine.png" width="100"/>&nbsp;
-  <img src="memes/sticker_86_stonks.png" width="100"/>&nbsp;
-  <img src="memes/sticker_82_drake.png" width="100"/>&nbsp;
-  <img src="memes/sticker_87_harold.png" width="100"/>
+  <img src="stickers/memes/sticker_84_this_is_fine.png" width="100"/>&nbsp;
+  <img src="stickers/memes/sticker_86_stonks.png" width="100"/>&nbsp;
+  <img src="stickers/memes/sticker_82_drake.png" width="100"/>&nbsp;
+  <img src="stickers/memes/sticker_87_harold.png" width="100"/>
 </p>
 
 ### 🏴‍☠️ Pirate Theme
 *Arrr, code be treasureeee!*
 
 <p align="center">
-  <img src="pirate_theme/sticker_01_cyberpirate.png" width="100"/>&nbsp;
-  <img src="pirate_theme/sticker_02_codeship.png" width="100"/>&nbsp;
-  <img src="pirate_theme/sticker_06_jollyroger.png" width="100"/>&nbsp;
-  <img src="pirate_theme/sticker_03_treasure.png" width="100"/>
+  <img src="stickers/pirate_theme/sticker_01_cyberpirate.png" width="100"/>&nbsp;
+  <img src="stickers/pirate_theme/sticker_02_codeship.png" width="100"/>&nbsp;
+  <img src="stickers/pirate_theme/sticker_06_jollyroger.png" width="100"/>&nbsp;
+  <img src="stickers/pirate_theme/sticker_03_treasure.png" width="100"/>
 </p>
 
 ### 🚀 Space & Sci-Fi
 *To infinity and beyond!*
 
 <p align="center">
-  <img src="space_scifi/sticker_70_astronaut.png" width="100"/>&nbsp;
-  <img src="space_scifi/sticker_71_alien_grey.png" width="100"/>&nbsp;
-  <img src="space_scifi/sticker_73_black_hole.png" width="100"/>&nbsp;
-  <img src="space_scifi/sticker_74_mars.png" width="100"/>
+  <img src="stickers/space_scifi/sticker_70_astronaut.png" width="100"/>&nbsp;
+  <img src="stickers/space_scifi/sticker_71_alien_grey.png" width="100"/>&nbsp;
+  <img src="stickers/space_scifi/sticker_73_black_hole.png" width="100"/>&nbsp;
+  <img src="stickers/space_scifi/sticker_74_mars.png" width="100"/>
 </p>
 
 ---
 
-## � Sticker Specs
+## 📐 Sticker Specs
 
 ### Format Info
 | Property | Value |
@@ -197,7 +197,7 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 
 | Use Case | How |
 |:---------|:----|
-| **GitHub README** | `![](./category/sticker.png)` |
+| **GitHub README** | `![](./stickers/category/sticker.png)` |
 | **Telegram/Discord** | Import as custom stickers |
 | **Slack** | Add as custom emoji |
 | **Print** | High-res, ready to print! |
@@ -211,7 +211,7 @@ Or just browse and download what you need! No signup, no paywall, just stickers.
 Got stickers? We want 'em! 
 
 1. 🍴 Fork this repo
-2. ➕ Add your stickers to the right folder
+2. ➕ Add your stickers to the right folder in `stickers/`
 3. 📝 Update README if needed  
 4. 🚀 Submit a PR
 
